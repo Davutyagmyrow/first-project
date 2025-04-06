@@ -1,0 +1,15 @@
+# Exclude all classes from compiled Java code
+*.class
+
+# Exclude IntelliJ IDEA configurations and folders
+.idea/
+*.iml
+
+# Exclude build folders
+out/
+build/
+
+# Exclude logs and temporary files
+*.log
+*.tmp
+*.swp
